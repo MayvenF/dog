@@ -4,6 +4,6 @@ import (
 	"strings"
 )
 
-func whenGrownUp(s string) string {
+func WhenGrownUp(s string) string {
 	return "When dog grows up it says: " + strings.ToUpper(s)
 }
